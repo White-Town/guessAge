@@ -1,0 +1,15 @@
+.container{
+  background-color: aquamarine;
+  border: 2px solid black;
+  border-radius: 5px;
+  width: 400px;
+}
+.box{
+  border-radius: 5px;
+}
+
+.display{
+  background-color: antiquewhite;
+  border-radius: 5px;
+  width: 60%;
+}
