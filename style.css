@@ -1,15 +1,21 @@
-.container{
+.container {
   background-color: aquamarine;
   border: 2px solid black;
   border-radius: 5px;
-  width: 400px;
-}
-.box{
-  border-radius: 5px;
+  max-width: 400px;
+  margin: auto;
+  padding: 20px;
+  text-align: center;
 }
 
-.display{
+.box {
+  margin-top: 10px;
+}
+
+.display {
   background-color: antiquewhite;
   border-radius: 5px;
-  width: 60%;
+  max-width: 80%;
+  margin: auto;
+  padding: 10px;
 }
